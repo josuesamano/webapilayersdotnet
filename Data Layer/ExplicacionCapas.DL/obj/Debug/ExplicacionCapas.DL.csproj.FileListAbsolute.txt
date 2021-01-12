@@ -1,0 +1,9 @@
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\bin\Debug\ExplicacionCapas.DL.dll
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\bin\Debug\ExplicacionCapas.DL.pdb
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\bin\Debug\ExplicacionCapas.Transversal.Entities.dll
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\bin\Debug\ExplicacionCapas.Transversal.Entities.pdb
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\obj\Debug\ExplicacionCapas.DL.csprojAssemblyReference.cache
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\obj\Debug\ExplicacionCapas.DL.csproj.CoreCompileInputs.cache
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\obj\Debug\ExplicacionCapas.DL.csproj.CopyComplete
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\obj\Debug\ExplicacionCapas.DL.dll
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Data Layer\ExplicacionCapas.DL\obj\Debug\ExplicacionCapas.DL.pdb

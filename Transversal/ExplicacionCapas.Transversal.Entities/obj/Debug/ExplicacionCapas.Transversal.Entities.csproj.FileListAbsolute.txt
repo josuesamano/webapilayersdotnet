@@ -1,0 +1,6 @@
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Transversal\ExplicacionCapas.Transversal.Entities\bin\Debug\ExplicacionCapas.Transversal.Entities.dll
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Transversal\ExplicacionCapas.Transversal.Entities\bin\Debug\ExplicacionCapas.Transversal.Entities.pdb
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Transversal\ExplicacionCapas.Transversal.Entities\obj\Debug\ExplicacionCapas.Transversal.Entities.csprojAssemblyReference.cache
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Transversal\ExplicacionCapas.Transversal.Entities\obj\Debug\ExplicacionCapas.Transversal.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Transversal\ExplicacionCapas.Transversal.Entities\obj\Debug\ExplicacionCapas.Transversal.Entities.dll
+C:\Proyectos\OneCore\ExplicacionCapas\OneCore.ExplicacionCapas\Transversal\ExplicacionCapas.Transversal.Entities\obj\Debug\ExplicacionCapas.Transversal.Entities.pdb
